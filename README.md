@@ -1,8 +1,8 @@
 # Does Class Attendance Affect Academic Performance? What Really Drives Exam Scores
 
 **Course:** COSC391 Data Mining, University of Eastern Africa, Baraton
-**Group:** John Kamau, Lynn Bitok, David Kiamba
-**Repository:** https://github.com/danny-kenn/dataminning
+**Group:** John Kamau,  David Kiamba, Lynn Bitok
+**Repository:** (https://github.com/LynnBitok6391/dataminning.git)
 **Live dashboard:** https://danny-kenn.github.io/dataminning/
 
 ---
